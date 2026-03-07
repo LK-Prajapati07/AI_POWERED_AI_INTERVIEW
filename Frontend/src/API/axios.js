@@ -1,6 +1,6 @@
 import axios from "axios";
 const API = axios.create({
-  baseURL:https://ai-powered-ai-interview.onrender.com,
+  baseURL:"https://ai-powered-ai-interview.onrender.com",
   withCredentials: true,
 });
 export const loginAPI = async (payload) => {
