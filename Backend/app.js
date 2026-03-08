@@ -13,7 +13,7 @@ app.set("etag", false);
 app.use(express.json());
 app.use(
   cors({
-    // origin:true,
+   
     origin: ENV.VITE_CLIENT_URL,
     credentials: true,
   })
