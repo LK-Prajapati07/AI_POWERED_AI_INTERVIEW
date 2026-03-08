@@ -3,7 +3,7 @@ import axios from "axios";
 
 
 const API = axios.create({
-  baseURL: "https://ai-powered-ai-interview-1.onrender.com", 
+  baseURL: "https://ai-powered-ai-interview-1.onrender.com/api", 
   withCredentials: true,
 });
 
