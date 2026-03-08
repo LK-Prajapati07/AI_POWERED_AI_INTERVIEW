@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(
   cors({
    
-    origin: ENV.VITE_CLIENT_URL,
+    origin: "https://ai-powered-ai-interview-2.onrender.com",
     credentials: true,
   })
 );
