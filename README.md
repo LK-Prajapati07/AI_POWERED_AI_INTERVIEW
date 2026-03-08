@@ -78,8 +78,7 @@ Users can answer questions using voice.
 
 <p align="center">
 
-<img src="https://via.placeholder.com/900x450.png?text=AI+Interview+Dashboard" width="80%">
-
+<img src="https://readme-typing-svg.demolab.com/?color=00C853&size=26&center=true&vCenter=true&width=600&lines=AI+Powered+Interview+Platform;Practice+Real+Interviews;Resume+Analysis+with+AI;Smart+Performance+Reports">
 </p>
 
 <p align="center">
