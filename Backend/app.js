@@ -14,7 +14,6 @@ app.use(express.json());
 app.use(
   cors({
     // origin:true,
-    origin: import.meta.env.VITE_CLIENT_URL,
     origin: ENV.VITE_CLIENT_URL,
     credentials: true,
   })
